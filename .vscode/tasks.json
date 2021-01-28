@@ -27,6 +27,7 @@
             "label": "C/C++: clang build active file",
             "command": "/usr/bin/clang",
             "args": [
+                
                 "-g",
                 "${file}",
                 "-o",
